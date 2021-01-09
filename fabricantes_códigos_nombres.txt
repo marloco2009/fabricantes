@@ -1,0 +1,1277 @@
+código,nombre
+709F2D,zte corporation
+E4B021,Samsung Electronics Co.
+D0F88C,Motorola (Wuhan) Mobility Technologies Communication Co.
+D4C1C8,zte corporation
+88D274,zte corporation
+C4ABB2,vivo Mobile Communication Co.
+14A0F8,HUAWEI TECHNOLOGIES CO.
+3C678C,HUAWEI TECHNOLOGIES CO.
+D4503F,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+388C50,LG Electronics
+1CDA27,vivo Mobile Communication Co.
+049573,zte corporation
+F0D7AA,Motorola Mobility LLC
+3096FB,Samsung Electronics Co.
+4827EA,Samsung Electronics Co.
+7C787E,Samsung Electronics Co.
+6091F3,vivo Mobile Communication Co.
+28395E,Samsung Electronics Co.
+38295A,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+D47DFC,TECNO MOBILE LIMITED
+BC2F3D,vivo Mobile Communication Co.
+407D0F,HUAWEI TECHNOLOGIES CO.
+68CC6E,HUAWEI TECHNOLOGIES CO.
+78C1A7,zte corporation
+8CF5A3,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+3CBD3E,Beijing Xiaomi Electronics Co.
+D47AE2,Samsung Electronics Co.
+E44790,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+D8E0E1,Samsung Electronics Co.
+D8C771,HUAWEI TECHNOLOGIES CO.
+8CE117,zte corporation
+688AF0,zte corporation
+80D4A5,HUAWEI TECHNOLOGIES CO.
+04B0E7,HUAWEI TECHNOLOGIES CO.
+446A2E,HUAWEI TECHNOLOGIES CO.
+A06FAA,LG Innotek
+F83F51,Samsung Electronics Co.
+D058A8,zte corporation
+D071C4,zte corporation
+5001D9,HUAWEI TECHNOLOGIES CO.
+24C44A,zte corporation
+DC0B34,LG Electronics (Mobile Communications)
+404E36,HTC Corporation
+60A4D0,Samsung Electronics Co.
+008701,Samsung Electronics Co.
+5C9960,Samsung Electronics Co.
+487B6B,HUAWEI TECHNOLOGIES CO.
+883FD3,HUAWEI TECHNOLOGIES CO.
+101DC0,Samsung Electronics Co.
+68EBAE,Samsung Electronics Co.
+444E1A,Samsung Electronics Co.
+78471D,Samsung Electronics Co.
+A07591,Samsung Electronics Co.
+0CDFA4,Samsung Electronics Co.
+002637,SAMSUNG ELECTRO MECHANICS CO.
+002119,SAMSUNG ELECTRO MECHANICS CO.
+F4D9FB,Samsung Electronics Co.
+3C6200,Samsung Electronics Co.
+90187C,SAMSUNG ELECTRO MECHANICS CO.
+50CCF8,SAMSUNG ELECTRO MECHANICS CO.
+50B7C3,Samsung Electronics Co.
+1C5A3E,Samsung Electronics Co.
+A02195,Samsung Electronics Co.
+E47CF9,Samsung Electronics Co.
+4844F7,Samsung Electronics Co.
+001377,Samsung Electronics Co.
+002454,Samsung Electronics Co.
+E81132,Samsung Electronics Co.
+C06599,Samsung Electronics Co.
+BC79AD,Samsung Electronics Co.
+4C3C16,Samsung Electronics Co.
+0073E0,Samsung Electronics Co.
+0017D5,Samsung Electronics Co.
+001E7D,Samsung Electronics Co.
+001DF6,Samsung Electronics Co.
+F008F1,Samsung Electronics Co.
+58C38B,Samsung Electronics Co.
+00E3B2,Samsung Electronics Co.
+301966,Samsung Electronics Co.
+F0E77E,Samsung Electronics Co.
+94350A,Samsung Electronics Co.
+001D25,Samsung Electronics Co.
+343111,Samsung Electronics Co.
+08FD0E,Samsung Electronics Co.
+041BBA,Samsung Electronics Co.
+889B39,Samsung Electronics Co.
+E432CB,Samsung Electronics Co.
+BC8CCD,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+D022BE,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+EC9BF3,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F409D8,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+10D542,Samsung Electronics Co.
+A0821F,Samsung Electronics Co.
+F06BCA,Samsung Electronics Co.
+AC3613,Samsung Electronics Co.
+18D276,HUAWEI TECHNOLOGIES CO.
+48FD8E,HUAWEI TECHNOLOGIES CO.
+AC6175,HUAWEI TECHNOLOGIES CO.
+244427,HUAWEI TECHNOLOGIES CO.
+4849C7,Samsung Electronics Co.
+849866,Samsung Electronics Co.
+10F96F,LG Electronics (Mobile Communications)
+C4438F,LG Electronics (Mobile Communications)
+A09169,LG Electronics (Mobile Communications)
+286C07,XIAOMI Electronics
+9893CC,LG ELECTRONICS INC
+3CCD93,LG ELECTRONICS INC
+2021A5,LG Electronics (Mobile Communications)
+6CD68A,LG Electronics (Mobile Communications)
+9476B7,Samsung Electronics Co.
+2C54CF,LG Electronics (Mobile Communications)
+485929,LG Electronics (Mobile Communications)
+58A2B5,LG Electronics (Mobile Communications)
+002483,LG Electronics (Mobile Communications)
+001FE3,LG Electronics (Mobile Communications)
+000F62,Alcatel Bell Space N.V.
+4C6641,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+5CA86A,HUAWEI TECHNOLOGIES CO.
+9CA5C0,vivo Mobile Communication Co.
+AC3743,HTC Corporation
+FC2D5E,zte corporation
+042758,HUAWEI TECHNOLOGIES CO.
+9CE374,HUAWEI TECHNOLOGIES CO.
+B8BBAF,Samsung Electronics Co.
+60C5AD,Samsung Electronics Co.
+28E31F,Xiaomi Communications Co Ltd
+DCD916,HUAWEI TECHNOLOGIES CO.
+083FBC,zte corporation
+9C741A,HUAWEI TECHNOLOGIES CO.
+E4A8B6,HUAWEI TECHNOLOGIES CO.
+244C07,HUAWEI TECHNOLOGIES CO.
+54511B,HUAWEI TECHNOLOGIES CO.
+D4612E,HUAWEI TECHNOLOGIES CO.
+001FA7,Sony Interactive Entertainment Inc.
+CCB11A,Samsung Electronics Co.
+E4FAED,Samsung Electronics Co.
+288335,Samsung Electronics Co.
+DCCF96,Samsung Electronics Co.
+0002EE,Nokia Danmark A/S
+A80600,Samsung Electronics Co.
+F05A09,Samsung Electronics Co.
+503275,Samsung Electronics Co.
+08FC88,Samsung Electronics Co.
+24F5AA,Samsung Electronics Co.
+988389,Samsung Electronics Co.
+84A466,Samsung Electronics Co.
+C4576E,Samsung Electronics Co.
+508569,Samsung Electronics Co.
+F8D0BD,Samsung Electronics Co.
+78595E,Samsung Electronics Co.
+0C1420,Samsung Electronics Co.
+3CBBFD,Samsung Electronics Co.
+A48431,Samsung Electronics Co.
+A0B4A5,Samsung Electronics Co.
+E4F8EF,Samsung Electronics Co.
+745AAA,HUAWEI TECHNOLOGIES CO.
+04FE8D,HUAWEI TECHNOLOGIES CO.
+709E29,Sony Interactive Entertainment Inc.
+002345,Sony Mobile Communications Inc
+6C0E0D,Sony Mobile Communications Inc
+6C23B9,Sony Mobile Communications Inc
+3017C8,Sony Mobile Communications Inc
+0012EE,Sony Mobile Communications Inc
+001620,Sony Mobile Communications Inc
+001963,Sony Mobile Communications Inc
+001FE4,Sony Mobile Communications Inc
+205476,Sony Mobile Communications Inc
+001A80,Sony Corporation
+B07994,Motorola Mobility LLC
+A470D6,Motorola Mobility LLC
+C46699,vivo Mobile Communication Co.
+C8F230,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+8C0EE3,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+48AD08,HUAWEI TECHNOLOGIES CO.
+4CFB45,HUAWEI TECHNOLOGIES CO.
+009ACD,HUAWEI TECHNOLOGIES CO.
+902155,HTC Corporation
+7CB15D,HUAWEI TECHNOLOGIES CO.
+D8B377,HTC Corporation
+B0AA36,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+A09347,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+E8BBA8,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+88CF98,HUAWEI TECHNOLOGIES CO.
+38F889,HUAWEI TECHNOLOGIES CO.
+D07AB5,HUAWEI TECHNOLOGIES CO.
+0019C6,zte corporation
+B43052,HUAWEI TECHNOLOGIES CO.
+80D09B,HUAWEI TECHNOLOGIES CO.
+1C8E5C,HUAWEI TECHNOLOGIES CO.
+84742A,zte corporation
+9CD24B,zte corporation
+C87B5B,zte corporation
+904E2B,HUAWEI TECHNOLOGIES CO.
+2008ED,HUAWEI TECHNOLOGIES CO.
+0034FE,HUAWEI TECHNOLOGIES CO.
+C85195,HUAWEI TECHNOLOGIES CO.
+40CBA8,HUAWEI TECHNOLOGIES CO.
+D46E5C,HUAWEI TECHNOLOGIES CO.
+8853D4,HUAWEI TECHNOLOGIES CO.
+04C06F,HUAWEI TECHNOLOGIES CO.
+202BC1,HUAWEI TECHNOLOGIES CO.
+54A51B,HUAWEI TECHNOLOGIES CO.
+002568,HUAWEI TECHNOLOGIES CO.
+781DBA,HUAWEI TECHNOLOGIES CO.
+00259E,HUAWEI TECHNOLOGIES CO.
+D46AA8,HUAWEI TECHNOLOGIES CO.
+B8BC1B,HUAWEI TECHNOLOGIES CO.
+582AF7,HUAWEI TECHNOLOGIES CO.
+4C8BEF,HUAWEI TECHNOLOGIES CO.
+FC48EF,HUAWEI TECHNOLOGIES CO.
+707BE8,HUAWEI TECHNOLOGIES CO.
+4C1FCC,HUAWEI TECHNOLOGIES CO.
+D4B110,HUAWEI TECHNOLOGIES CO.
+E468A3,HUAWEI TECHNOLOGIES CO.
+3400A3,HUAWEI TECHNOLOGIES CO.
+00A040,Apple
+68A828,HUAWEI TECHNOLOGIES CO.
+BC9C31,HUAWEI TECHNOLOGIES CO.
+E4C2D1,HUAWEI TECHNOLOGIES CO.
+E8B4C8,Samsung Electronics Co.
+D087E2,Samsung Electronics Co.
+F05B7B,Samsung Electronics Co.
+B047BF,Samsung Electronics Co.
+7C0BC6,Samsung Electronics Co.
+845B12,HUAWEI TECHNOLOGIES CO.
+205531,Samsung Electronics Co.
+E02CB2,Lenovo Mobile Communication (Wuhan) Company Limited
+E89120,Motorola Mobility LLC
+D4F9A1,HUAWEI TECHNOLOGIES CO.
+5440AD,Samsung Electronics Co.
+804E81,Samsung Electronics Co.
+FC8F90,Samsung Electronics Co.
+74042B,Lenovo Mobile Communication (Wuhan) Company Limited
+4480EB,Motorola Mobility LLC
+C4366C,LG Innotek
+9CD35B,Samsung Electronics Co.
+A89FBA,Samsung Electronics Co.
+30D587,Samsung Electronics Co.
+D05BA8,zte corporation
+6099D1,Vuzix / Lenovo
+D437D7,zte corporation
+D059E4,Samsung Electronics Co.
+14A364,Samsung Electronics Co.
+84A783,Alcatel Lucent
+68764F,Sony Mobile Communications Inc
+CC7B35,zte corporation
+5422F8,zte corporation
+C8DDC9,Lenovo Mobile Communication Technology Ltd.
+901D27,zte corporation
+8CE081,zte corporation
+48282F,zte corporation
+5453ED,Sony Corporation
+3CE624,LG Display 
+F0BF97,Sony Corporation
+68597F,Alcatel Lucent
+002538,Samsung Electronics Co.
+002437,Motorola - BSG
+0022A6,Sony Computer Entertainment America
+0022A1,Huawei Symantec Technologies Co.
+00153F,Alcatel Alenia Space Italia
+002032,ALCATEL TAISEL
+1C08C1,LG Innotek
+60D0A9,Samsung Electronics Co.
+88CEFA,HUAWEI TECHNOLOGIES CO.
+2C8A72,HTC Corporation
+101B54,HUAWEI TECHNOLOGIES CO.
+ECF342,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+30D386,zte corporation
+70D923,vivo Mobile Communication Co.
+28B448,HUAWEI TECHNOLOGIES CO.
+503DA1,Samsung Electronics Co.
+4C1A3D,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+F470AB,vivo Mobile Communication Co.
+3C0518,Samsung Electronics Co.
+900628,Samsung Electronics Co.
+BC3F8F,HUAWEI TECHNOLOGIES CO.
+143004,HUAWEI TECHNOLOGIES CO.
+38AA3C,SAMSUNG ELECTRO MECHANICS CO.
+5004B8,HUAWEI TECHNOLOGIES CO.
+681AB2,zte corporation
+64DB43,Motorola (Wuhan) Mobility Technologies Communication Co.
+44C346,HUAWEI TECHNOLOGIES CO.
+307496,HUAWEI TECHNOLOGIES CO.
+708A09,HUAWEI TECHNOLOGIES CO.
+F4F524,Motorola Mobility LLC
+CC2D83,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+EC107B,Samsung Electronics Co.
+1C232C,Samsung Electronics Co.
+F02FA7,HUAWEI TECHNOLOGIES CO.
+18DED7,HUAWEI TECHNOLOGIES CO.
+0021D1,Samsung Electronics Co.
+001FCC,Samsung Electronics Co.
+EC8892,Motorola Mobility LLC
+004A77,zte corporation
+60A10A,Samsung Electronics Co.
+8C71F8,Samsung Electronics Co.
+CC051B,Samsung Electronics Co.
+8C7712,Samsung Electronics Co.
+9463D1,Samsung Electronics Co.
+0021D2,Samsung Electronics Co.
+5C497D,Samsung Electronics Co.
+7825AD,Samsung Electronics Co.
+ECE09B,Samsung Electronics Co.
+78D6F0,SAMSUNG ELECTRO MECHANICS CO.
+BC20A4,Samsung Electronics Co.
+08D42B,Samsung Electronics Co.
+789ED0,Samsung Electronics Co.
+B0C4E7,Samsung Electronics Co.
+A00798,Samsung Electronics Co.
+001FCD,Samsung Electronics Co.
+38ECE4,Samsung Electronics Co.
+945103,Samsung Electronics Co.
+002490,Samsung Electronics Co.
+0023D7,Samsung Electronics Co.
+549B12,Samsung Electronics Co.
+FCA13E,Samsung Electronics Co.
+24C696,Samsung Electronics Co.
+94D771,Samsung Electronics Co.
+E84E84,Samsung Electronics Co.
+001632,Samsung Electronics Co.
+E4E0C5,Samsung Electronics Co.
+C81479,Samsung Electronics Co.
+1CAF05,Samsung Electronics Co.
+0016DB,Samsung Electronics Co.
+001EE2,Samsung Electronics Co.
+20D5BF,Samsung Electronics Co.
+5CE8EB,Samsung Electronics Co.
+C0BDD1,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+B479A7,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+7C11CB,HUAWEI TECHNOLOGIES CO.
+B0DF3A,Samsung Electronics Co.
+805719,Samsung Electronics Co.
+34BE00,Samsung Electronics Co.
+78521A,Samsung Electronics Co.
+049FCA,HUAWEI TECHNOLOGIES CO.
+50016B,HUAWEI TECHNOLOGIES CO.
+205EF7,Samsung Electronics Co.
+141F78,Samsung Electronics Co.
+74B57E,zte corporation
+B47443,Samsung Electronics Co.
+18686A,zte corporation
+30766F,LG Electronics (Mobile Communications)
+A8922C,LG Electronics (Mobile Communications)
+F80CF3,LG Electronics (Mobile Communications)
+C49A02,LG Electronics (Mobile Communications)
+001F6B,LG Electronics (Mobile Communications)
+0026E2,LG Electronics (Mobile Communications)
+A47174,HUAWEI TECHNOLOGIES CO.
+F4CB52,HUAWEI TECHNOLOGIES CO.
+B808D7,HUAWEI TECHNOLOGIES CO.
+3C0771,Sony Corporation
+3CB6B7,vivo Mobile Communication Co.
+34A2A2,HUAWEI TECHNOLOGIES CO.
+749D8F,HUAWEI TECHNOLOGIES CO.
+C864C7,zte corporation
+F823B2,HUAWEI TECHNOLOGIES CO.
+E0A3AC,HUAWEI TECHNOLOGIES CO.
+BC7574,HUAWEI TECHNOLOGIES CO.
+20A680,HUAWEI TECHNOLOGIES CO.
+8828B3,HUAWEI TECHNOLOGIES CO.
+5C70A3,LG Electronics (Mobile Communications)
+749781,zte corporation
+BC60A7,Sony Interactive Entertainment Inc.
+DCEE06,HUAWEI TECHNOLOGIES CO.
+64CC2E,Xiaomi Communications Co Ltd
+14D11F,HUAWEI TECHNOLOGIES CO.
+DC094C,HUAWEI TECHNOLOGIES CO.
+1C6758,HUAWEI TECHNOLOGIES CO.
+24BCF8,HUAWEI TECHNOLOGIES CO.
+F877B8,Samsung Electronics Co.
+A8E3EE,Sony Interactive Entertainment Inc.
+00248D,Sony Interactive Entertainment Inc.
+00041F,Sony Interactive Entertainment Inc.
+980CA5,Motorola (Wuhan) Mobility Technologies Communication Co.
+182195,Samsung Electronics Co.
+44783E,Samsung Electronics Co.
+14BB6E,Samsung Electronics Co.
+28CC01,Samsung Electronics Co.
+744AA4,zte corporation
+6CF373,Samsung Electronics Co.
+9C3AAF,Samsung Electronics Co.
+781FDB,Samsung Electronics Co.
+4CA56D,Samsung Electronics Co.
+B86CE8,Samsung Electronics Co.
+0CB319,Samsung Electronics Co.
+183F47,Samsung Electronics Co.
+B46293,Samsung Electronics Co.
+50A4C8,Samsung Electronics Co.
+1867B0,Samsung Electronics Co.
+6C8336,Samsung Electronics Co.
+001E45,Sony Mobile Communications Inc
+001CA4,Sony Mobile Communications Inc
+001A75,Sony Mobile Communications Inc
+78843C,Sony Corporation
+0013A9,Sony Corporation
+000AD9,Sony Mobile Communications Inc
+000E07,Sony Mobile Communications Inc
+94CE2C,Sony Mobile Communications Inc
+FC0FE6,Sony Interactive Entertainment Inc.
+0023F1,Sony Mobile Communications Inc
+E0757D,Motorola Mobility LLC
+34BB26,Motorola Mobility LLC
+806C1B,Motorola Mobility LLC
+3CA348,vivo Mobile Communication Co.
+E45AA2,vivo Mobile Communication Co.
+2082C0,Xiaomi Communications Co Ltd
+DC6DCD,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+A4BA76,HUAWEI TECHNOLOGIES CO.
+48DB50,HUAWEI TECHNOLOGIES CO.
+F8DB7F,HTC Corporation
+64A769,HTC Corporation
+E899C4,HTC Corporation
+BCCFCC,HTC Corporation
+601888,zte corporation
+BC3AEA,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+002512,zte corporation
+344B50,zte corporation
+FCC897,zte corporation
+001882,HUAWEI TECHNOLOGIES CO.
+20F3A3,HUAWEI TECHNOLOGIES CO.
+0C37DC,HUAWEI TECHNOLOGIES CO.
+BC7670,HUAWEI TECHNOLOGIES CO.
+24DBAC,HUAWEI TECHNOLOGIES CO.
+1C1D67,HUAWEI TECHNOLOGIES CO.
+2469A5,HUAWEI TECHNOLOGIES CO.
+EC233D,HUAWEI TECHNOLOGIES CO.
+78F5FD,HUAWEI TECHNOLOGIES CO.
+5C7D5E,HUAWEI TECHNOLOGIES CO.
+90671C,HUAWEI TECHNOLOGIES CO.
+BC25E0,HUAWEI TECHNOLOGIES CO.
+D02DB3,HUAWEI TECHNOLOGIES CO.
+E8CD2D,HUAWEI TECHNOLOGIES CO.
+84A8E4,HUAWEI TECHNOLOGIES CO.
+0C96BF,HUAWEI TECHNOLOGIES CO.
+60E701,HUAWEI TECHNOLOGIES CO.
+E8088B,HUAWEI TECHNOLOGIES CO.
+643E8C,HUAWEI TECHNOLOGIES CO.
+7C6097,HUAWEI TECHNOLOGIES CO.
+CC53B5,HUAWEI TECHNOLOGIES CO.
+60DE44,HUAWEI TECHNOLOGIES CO.
+105172,HUAWEI TECHNOLOGIES CO.
+08E84F,HUAWEI TECHNOLOGIES CO.
+888603,HUAWEI TECHNOLOGIES CO.
+04F938,HUAWEI TECHNOLOGIES CO.
+AC853D,HUAWEI TECHNOLOGIES CO.
+E0247F,HUAWEI TECHNOLOGIES CO.
+00464B,HUAWEI TECHNOLOGIES CO.
+80FB06,HUAWEI TECHNOLOGIES CO.
+7C1DD9,Xiaomi Communications Co Ltd
+A086C6,Xiaomi Communications Co Ltd
+9C99A0,Xiaomi Communications Co Ltd
+584498,Xiaomi Communications Co Ltd
+346987,zte corporation
+98F428,zte corporation
+A03299,Lenovo (Beijing) Co.
+ACEE9E,Samsung Electronics Co.
+B857D8,Samsung Electronics Co.
+6889C1,HUAWEI TECHNOLOGIES CO.
+143EBF,zte corporation
+7CA23E,HUAWEI TECHNOLOGIES CO.
+88A2D7,HUAWEI TECHNOLOGIES CO.
+AC5A14,Samsung Electronics Co.
+08ECA9,Samsung Electronics Co.
+9C37F4,HUAWEI TECHNOLOGIES CO.
+3C4711,HUAWEI TECHNOLOGIES CO.
+C43ABE,Sony Mobile Communications Inc
+F8CFC5,Motorola Mobility LLC
+7840E4,Samsung Electronics Co.
+E09971,Samsung Electronics Co.
+10D38A,Samsung Electronics Co.
+307512,Sony Mobile Communications Inc
+6077E2,Samsung Electronics Co.
+FC1910,Samsung Electronics Co.
+3CA10D,Samsung Electronics Co.
+646CB2,Samsung Electronics Co.
+680571,Samsung Electronics Co.
+14B484,Samsung Electronics Co.
+A43D78,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+A8A668,zte corporation
+00EEBD,HTC Corporation
+208986,zte corporation
+98FFD0,Lenovo Mobile Communication Technology Ltd.
+9CA9E4,zte corporation
+E47723,zte corporation
+B4527E,Sony Mobile Communications Inc
+502E5C,HTC Corporation
+146080,zte corporation
+503CC4,Lenovo Mobile Communication Technology Ltd.
+980D2E,HTC Corporation
+2C26C5,zte corporation
+4C09B4,zte corporation
+149FE8,Lenovo Mobile Communication Technology Ltd.
+D4206D,HTC Corporation
+9067F3,Alcatel Lucent
+18422F,Alcatel Lucent
+0022DE,OPPO Digital
+00198F,Nokia Bell N.V.
+000918,SAMSUNG TECHWIN CO.
+00061B,Notebook Development Lab.  Lenovo Japan Ltd.
+00040F,Asus Network Technologies
+00E064,SAMSUNG ELECTRONICS
+00E00C,MOTOROLA
+008039,ALCATEL STC AUSTRALIA
+0005C9,LG Innotek
+4455B1,HUAWEI TECHNOLOGIES CO.
+0CB5DE,Alcatel Lucent
+00E091,LG Electronics
+002060,ALCATEL ITALIA S.p.A.
+88D50C,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+EC8A4C,zte corporation
+C4AE12,Samsung Electronics Co.
+04946B,TECNO MOBILE LIMITED
+F4E4AD,zte corporation
+28FF3E,zte corporation
+D4AE05,Samsung Electronics Co.
+F0EE10,Samsung Electronics Co.
+DCC64B,HUAWEI TECHNOLOGIES CO.
+043389,HUAWEI TECHNOLOGIES CO.
+B81DAA,LG Electronics (Mobile Communications)
+2C55D3,HUAWEI TECHNOLOGIES CO.
+7C4685,Motorola (Wuhan) Mobility Technologies Communication Co.
+0823B2,vivo Mobile Communication Co.
+689FF0,zte corporation
+5CAF06,LG Electronics (Mobile Communications)
+C81451,HUAWEI TECHNOLOGIES CO.
+F0C850,HUAWEI TECHNOLOGIES CO.
+64136C,zte corporation
+1C48CE,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+C80CC8,HUAWEI TECHNOLOGIES CO.
+0425C5,HUAWEI TECHNOLOGIES CO.
+6C5C14,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+3CFA43,HUAWEI TECHNOLOGIES CO.
+145F94,HUAWEI TECHNOLOGIES CO.
+CC61E5,Motorola Mobility LLC
+38A4ED,Xiaomi Communications Co Ltd
+20DBAB,Samsung Electronics Co.
+F09838,HUAWEI TECHNOLOGIES CO.
+E8E5D6,Samsung Electronics Co.
+C87E75,Samsung Electronics Co.
+00265F,Samsung Electronics Co.
+00233A,Samsung Electronics Co.
+0007AB,Samsung Electronics Co.
+382DD1,Samsung Electronics Co.
+FC1F19,SAMSUNG ELECTRO MECHANICS CO.
+840B2D,SAMSUNG ELECTRO MECHANICS CO.
+206432,SAMSUNG ELECTRO MECHANICS CO.
+B407F9,SAMSUNG ELECTRO MECHANICS CO.
+00166C,Samsung Electronics Co.
+181EB0,Samsung Electronics Co.
+E8039A,Samsung Electronics Co.
+30CDA7,Samsung Electronics Co.
+001247,Samsung Electronics Co.
+001599,Samsung Electronics Co.
+D0667B,Samsung Electronics Co.
+B85E7B,Samsung Electronics Co.
+E492FB,Samsung Electronics Co.
+6CB7F4,Samsung Electronics Co.
+2C4401,Samsung Electronics Co.
+B8D9CE,Samsung Electronics Co.
+1C66AA,Samsung Electronics Co.
+3C8BFE,Samsung Electronics Co.
+D4E8B2,Samsung Electronics Co.
+1489FD,Samsung Electronics Co.
+BC851F,Samsung Electronics Co.
+0015B9,Samsung Electronics Co.
+002339,Samsung Electronics Co.
+5001BB,Samsung Electronics Co.
+1C77F6,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+742344,Xiaomi Communications Co Ltd
+54880E,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F025B7,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F04347,HUAWEI TECHNOLOGIES CO.
+9CB2B2,HUAWEI TECHNOLOGIES CO.
+A8C83A,HUAWEI TECHNOLOGIES CO.
+BC72B1,Samsung Electronics Co.
+78F7BE,Samsung Electronics Co.
+684898,Samsung Electronics Co.
+3423BA,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+400E85,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+C8BA94,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+843838,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+5C3C27,Samsung Electronics Co.
+84C7EA,Sony Mobile Communications Inc
+88797E,Motorola Mobility LLC
+D013FD,LG Electronics (Mobile Communications)
+888322,Samsung Electronics Co.
+E89309,Samsung Electronics Co.
+6CD032,LG Electronics
+3CBDD8,LG ELECTRONICS INC
+344DF7,LG Electronics (Mobile Communications)
+583F54,LG Electronics (Mobile Communications)
+64899A,LG Electronics (Mobile Communications)
+78C3E9,Samsung Electronics Co.
+8C1ABF,Samsung Electronics Co.
+30CBF8,Samsung Electronics Co.
+A0CBFD,Samsung Electronics Co.
+E45D75,Samsung Electronics Co.
+F8A9D0,LG Electronics (Mobile Communications)
+CCFA00,LG Electronics (Mobile Communications)
+74A722,LG Electronics (Mobile Communications)
+F01C13,LG Electronics (Mobile Communications)
+A816B2,LG Electronics (Mobile Communications)
+64BC0C,LG Electronics (Mobile Communications)
+FCF152,Sony Corporation
+483C0C,HUAWEI TECHNOLOGIES CO.
+408805,Motorola Mobility LLC
+D0FCCC,Samsung Electronics Co.
+98398E,Samsung Electronics Co.
+20F17C,HUAWEI TECHNOLOGIES CO.
+346AC2,HUAWEI TECHNOLOGIES CO.
+C09727,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+90C7D8,zte corporation
+84AD58,HUAWEI TECHNOLOGIES CO.
+58605F,HUAWEI TECHNOLOGIES CO.
+AC0D1B,LG Electronics (Mobile Communications)
+202D07,Samsung Electronics Co.
+102AB3,Xiaomi Communications Co Ltd
+9C5CF9,Sony Mobile Communications Inc
+30A9DE,LG Innotek
+F01B6C,vivo Mobile Communication Co.
+000EED,Nokia Danmark A/S
+08373D,Samsung Electronics Co.
+C488E5,Samsung Electronics Co.
+FCC734,Samsung Electronics Co.
+8425DB,Samsung Electronics Co.
+E458B8,Samsung Electronics Co.
+088C2C,Samsung Electronics Co.
+64B853,Samsung Electronics Co.
+389496,Samsung Electronics Co.
+5056BF,Samsung Electronics Co.
+90F1AA,Samsung Electronics Co.
+1077B1,Samsung Electronics Co.
+A49A58,Samsung Electronics Co.
+08EE8B,Samsung Electronics Co.
+74458A,Samsung Electronics Co.
+C4473F,HUAWEI TECHNOLOGIES CO.
+5CB524,Sony Mobile Communications Inc
+90C115,Sony Mobile Communications Inc
+D05162,Sony Mobile Communications Inc
+18002D,Sony Mobile Communications Inc
+280DFC,Sony Interactive Entertainment Inc.
+0024EF,Sony Mobile Communications Inc
+0025E7,Sony Mobile Communications Inc
+58170C,Sony Mobile Communications Inc
+0016B8,Sony Mobile Communications Inc
+080046,Sony Corporation
+F8E079,Motorola Mobility LLC
+CCC3EA,Motorola Mobility LLC
+40786A,Motorola Mobility LLC
+2400BA,HUAWEI TECHNOLOGIES CO.
+24DF6A,HUAWEI TECHNOLOGIES CO.
+7C7D3D,HUAWEI TECHNOLOGIES CO.
+4482E5,HUAWEI TECHNOLOGIES CO.
+002376,HTC Corporation
+38E7D8,HTC Corporation
+188796,HTC Corporation
+B4CEF6,HTC Corporation
+E84DD0,HUAWEI TECHNOLOGIES CO.
+0C45BA,HUAWEI TECHNOLOGIES CO.
+B05B67,HUAWEI TECHNOLOGIES CO.
+CCA223,HUAWEI TECHNOLOGIES CO.
+786A89,HUAWEI TECHNOLOGIES CO.
+384608,zte corporation
+4CAC0A,zte corporation
+B4B362,zte corporation
+B075D5,zte corporation
+D0154A,zte corporation
+0026ED,zte corporation
+14B968,HUAWEI TECHNOLOGIES CO.
+5CF96A,HUAWEI TECHNOLOGIES CO.
+002293,zte corporation
+50A72B,HUAWEI TECHNOLOGIES CO.
+0CD6BD,HUAWEI TECHNOLOGIES CO.
+00F81C,HUAWEI TECHNOLOGIES CO.
+087A4C,HUAWEI TECHNOLOGIES CO.
+ACE215,HUAWEI TECHNOLOGIES CO.
+346BD3,HUAWEI TECHNOLOGIES CO.
+70723C,HUAWEI TECHNOLOGIES CO.
+ACE87B,HUAWEI TECHNOLOGIES CO.
+F83DFF,HUAWEI TECHNOLOGIES CO.
+285FDB,HUAWEI TECHNOLOGIES CO.
+404D8E,HUAWEI TECHNOLOGIES CO.
+4C5499,HUAWEI TECHNOLOGIES CO.
+F49FF3,HUAWEI TECHNOLOGIES CO.
+240995,HUAWEI TECHNOLOGIES CO.
+84DBAC,HUAWEI TECHNOLOGIES CO.
+94772B,HUAWEI TECHNOLOGIES CO.
+D440F0,HUAWEI TECHNOLOGIES CO.
+04021F,HUAWEI TECHNOLOGIES CO.
+185936,Xiaomi Communications Co Ltd
+200BC7,HUAWEI TECHNOLOGIES CO.
+F84ABF,HUAWEI TECHNOLOGIES CO.
+78D752,HUAWEI TECHNOLOGIES CO.
+104780,HUAWEI TECHNOLOGIES CO.
+548998,HUAWEI TECHNOLOGIES CO.
+70A8E3,HUAWEI TECHNOLOGIES CO.
+F8E811,HUAWEI TECHNOLOGIES CO.
+F8A45F,Xiaomi Communications Co Ltd
+640980,Xiaomi Communications Co Ltd
+94049C,HUAWEI TECHNOLOGIES CO.
+688F84,HUAWEI TECHNOLOGIES CO.
+30D17E,HUAWEI TECHNOLOGIES CO.
+080007,Apple
+E03676,HUAWEI TECHNOLOGIES CO.
+EC388F,HUAWEI TECHNOLOGIES CO.
+D03E5C,HUAWEI TECHNOLOGIES CO.
+54BE53,zte corporation
+38D40B,Samsung Electronics Co.
+E83A12,Samsung Electronics Co.
+24DA9B,Motorola Mobility LLC
+A4DCBE,HUAWEI TECHNOLOGIES CO.
+D494E8,HUAWEI TECHNOLOGIES CO.
+80656D,Samsung Electronics Co.
+FCF136,Samsung Electronics Co.
+18895B,Samsung Electronics Co.
+F8BF09,HUAWEI TECHNOLOGIES CO.
+F0182B,LG Chem
+584822,Sony Mobile Communications Inc
+78BDBC,Samsung Electronics Co.
+7CF90E,Samsung Electronics Co.
+50F0D3,Samsung Electronics Co.
+84119E,Samsung Electronics Co.
+5CB43E,HUAWEI TECHNOLOGIES CO.
+E4907E,Motorola Mobility LLC
+94A7B7,zte corporation
+1844E6,zte corporation
+249EAB,HUAWEI TECHNOLOGIES CO.
+244B03,Samsung Electronics Co.
+6CA75F,zte corporation
+8C7967,zte corporation
+244B81,Samsung Electronics Co.
+D855A3,zte corporation
+38D82F,zte corporation
+60AF6D,Samsung Electronics Co.
+B85A73,Samsung Electronics Co.
+60D9A0,Lenovo Mobile Communication Technology Ltd.
+981DFA,Samsung Electronics Co.
+848EDF,Sony Mobile Communications Inc
+207693,Lenovo (Beijing) Limited.
+C44202,Samsung Electronics Co.
+5C2E59,Samsung Electronics Co.
+103047,Samsung Electronics Co.
+F884F2,Samsung Electronics Co.
+E0CBEE,Samsung Electronics Co.
+CC07E4,Lenovo Mobile Communication Technology Ltd.
+D4224E,Alcatel Lucent
+6C5F1C,Lenovo Mobile Communication Technology Ltd.
+2C957F,zte corporation
+A0E453,Sony Mobile Communications Inc
+4CCC34,Motorola Solutions Inc.
+F8DFA8,zte corporation
+34E0CF,zte corporation
+94AE61,Alcatel Lucent
+4CA74B,Alcatel Lucent
+FC0012,Toshiba Samsung Storage Technolgoy Korea Corporation 
+54055F,Alcatel Lucent
+544249,Sony Corporation
+0023C2,SAMSUNG Electronics. Co. LTD
+000FBB,Nokia Siemens Networks GmbH & Co. KG.
+000EC7,Motorola Korea
+000DE5,Samsung Thales
+0050CE,LG INTERNATIONAL CORP.
+00A081,ALCATEL DATA NETWORKS
+002075,MOTOROLA COMMUNICATION ISRAEL
+E458E7,Samsung Electronics Co.
+C819F7,Samsung Electronics Co.
+601466,zte corporation
+8058F8,Motorola Mobility LLC
+F8A34F,zte corporation
+5425EA,HUAWEI TECHNOLOGIES CO.
+C894BB,HUAWEI TECHNOLOGIES CO.
+10B1F8,HUAWEI TECHNOLOGIES CO.
+ACC1EE,Xiaomi Communications Co Ltd
+5419C8,vivo Mobile Communication Co.
+805A04,LG Electronics (Mobile Communications)
+F8461C,Sony Interactive Entertainment Inc.
+38BC01,HUAWEI TECHNOLOGIES CO.
+341E6B,HUAWEI TECHNOLOGIES CO.
+886639,HUAWEI TECHNOLOGIES CO.
+2C598A,LG Electronics (Mobile Communications)
+884477,HUAWEI TECHNOLOGIES CO.
+149D09,HUAWEI TECHNOLOGIES CO.
+E47DBD,Samsung Electronics Co.
+9CFBD5,vivo Mobile Communication Co.
+E07C13,zte corporation
+F41F88,zte corporation
+18E29F,vivo Mobile Communication Co.
+707990,HUAWEI TECHNOLOGIES CO.
+842519,Samsung Electronics
+24920E,Samsung Electronics Co.
+FC4203,Samsung Electronics Co.
+A01081,Samsung Electronics Co.
+4CF95D,HUAWEI TECHNOLOGIES CO.
+8421F1,HUAWEI TECHNOLOGIES CO.
+088620,TECNO MOBILE LIMITED
+981333,zte corporation
+04180F,Samsung Electronics Co.
+2013E0,Samsung Electronics Co.
+002566,Samsung Electronics Co.
+C09F05,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+DC7144,SAMSUNG ELECTRO MECHANICS CO.
+980C82,SAMSUNG ELECTRO MECHANICS CO.
+A00BBA,SAMSUNG ELECTRO MECHANICS CO.
+606BBD,Samsung Electronics Co.
+00214C,Samsung Electronics Co.
+0018AF,Samsung Electronics Co.
+001EE1,Samsung Electronics Co.
+00166B,Samsung Electronics Co.
+0000F0,Samsung Electronics Co.
+8CC8CD,Samsung Electronics Co.
+A8F274,Samsung Electronics Co.
+D487D8,Samsung Electronics Co.
+184617,Samsung Electronics Co.
+380A94,Samsung Electronics Co.
+D0DFC7,Samsung Electronics Co.
+D0C1B1,Samsung Electronics Co.
+8018A7,Samsung Electronics Co.
+F47B5E,Samsung Electronics Co.
+70F927,Samsung Electronics Co.
+886AB1,vivo Mobile Communication Co.
+005A13,HUAWEI TECHNOLOGIES CO.
+C45006,Samsung Electronics Co.
+88329B,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+1449E0,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+D02544,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+BC4486,Samsung Electronics Co.
+20D390,Samsung Electronics Co.
+9401C2,Samsung Electronics Co.
+50FC9F,Samsung Electronics Co.
+380B40,Samsung Electronics Co.
+F0728C,Samsung Electronics Co.
+34AA8B,Samsung Electronics Co.
+24DBED,Samsung Electronics Co.
+68C44D,Motorola Mobility LLC
+440444,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+2C9D1E,HUAWEI TECHNOLOGIES CO.
+84B541,Samsung Electronics Co.
+006F64,Samsung Electronics Co.
+DC6672,Samsung Electronics Co.
+E0DDC0,vivo Mobile Communication Co.
+F8E61A,Samsung Electronics Co.
+A091C8,zte corporation
+CC2D8C,LG ELECTRONICS INC
+98D6F7,LG Electronics (Mobile Communications)
+700514,LG Electronics (Mobile Communications)
+E892A4,LG Electronics (Mobile Communications)
+10683F,LG Electronics (Mobile Communications)
+40B0FA,LG Electronics (Mobile Communications)
+0025E5,LG Electronics (Mobile Communications)
+0021FB,LG Electronics (Mobile Communications)
+34FCEF,LG Electronics (Mobile Communications)
+BCF5AC,LG Electronics (Mobile Communications)
+0C4885,LG Electronics (Mobile Communications)
+0022A9,LG Electronics (Mobile Communications)
+68A0F6,HUAWEI TECHNOLOGIES CO.
+9C2A83,Samsung Electronics Co.
+C80210,LG Innotek
+A039F7,LG Electronics (Mobile Communications)
+446EE5,HUAWEI TECHNOLOGIES CO.
+AC9B0A,Sony Corporation
+104FA8,Sony Corporation
+B0E235,Xiaomi Communications Co Ltd
+14C913,LG Electronics
+E09861,Motorola Mobility LLC
+A06090,Samsung Electronics Co.
+BC765E,Samsung Electronics Co.
+00809F,ALE International
+D85B2A,Samsung Electronics Co.
+34B354,HUAWEI TECHNOLOGIES CO.
+C46AB7,Xiaomi Communications Co Ltd
+50680A,HUAWEI TECHNOLOGIES CO.
+40163B,Samsung Electronics Co.
+FC3F7C,HUAWEI TECHNOLOGIES CO.
+384C4F,HUAWEI TECHNOLOGIES CO.
+C83870,Samsung Electronics Co.
+900325,HUAWEI TECHNOLOGIES CO.
+98E7F5,HUAWEI TECHNOLOGIES CO.
+0015C1,Sony Interactive Entertainment Inc.
+647791,Samsung Electronics Co.
+9CE6E7,Samsung Electronics Co.
+9C0298,Samsung Electronics Co.
+28987B,Samsung Electronics Co.
+54FA3E,Samsung Electronics Co.
+0C8910,Samsung Electronics Co.
+78ABBB,Samsung Electronics Co.
+D8C4E9,Samsung Electronics Co.
+BCD11F,Samsung Electronics Co.
+F4428F,Samsung Electronics Co.
+446D6C,Samsung Electronics Co.
+00F46F,Samsung Electronics Co.
+0C715D,Samsung Electronics Co.
+7C1CF1,HUAWEI TECHNOLOGIES CO.
+78F557,HUAWEI TECHNOLOGIES CO.
+E02861,HUAWEI TECHNOLOGIES CO.
+D0D04B,HUAWEI TECHNOLOGIES CO.
+480031,HUAWEI TECHNOLOGIES CO.
+D476EA,zte corporation
+001DBA,Sony Corporation
+0024BE,Sony Corporation
+000FDE,Sony Mobile Communications Inc
+0CFE45,Sony Interactive Entertainment Inc.
+E063E5,Sony Mobile Communications Inc
+F8D0AC,Sony Interactive Entertainment Inc.
+2421AB,Sony Mobile Communications Inc
+B8F934,Sony Mobile Communications Inc
+8C6422,Sony Mobile Communications Inc
+001B59,Sony Mobile Communications Inc
+002298,Sony Mobile Communications Inc
+60BEB5,Motorola Mobility LLC
+F8F1B6,Motorola Mobility LLC
+F4F1E1,Motorola Mobility LLC
+9CD917,Motorola Mobility LLC
+9068C3,Motorola Mobility LLC
+28FAA0,vivo Mobile Communication Co.
+ECDF3A,vivo Mobile Communication Co.
+F42981,vivo Mobile Communication Co.
+2CAB00,HUAWEI TECHNOLOGIES CO.
+A8CA7B,HUAWEI TECHNOLOGIES CO.
+D40B1A,HTC Corporation
+A08D16,HUAWEI TECHNOLOGIES CO.
+EC4D47,HUAWEI TECHNOLOGIES CO.
+FC64BA,Xiaomi Communications Co Ltd
+542758,Motorola (Wuhan) Mobility Technologies Communication Co.
+08181A,zte corporation
+001E73,zte corporation
+0015EB,zte corporation
+F4559C,HUAWEI TECHNOLOGIES CO.
+80B686,HUAWEI TECHNOLOGIES CO.
+10C61F,HUAWEI TECHNOLOGIES CO.
+CC96A0,HUAWEI TECHNOLOGIES CO.
+F80113,HUAWEI TECHNOLOGIES CO.
+A49947,HUAWEI TECHNOLOGIES CO.
+C8D15E,HUAWEI TECHNOLOGIES CO.
+C07009,HUAWEI TECHNOLOGIES CO.
+8038BC,HUAWEI TECHNOLOGIES CO.
+C4072F,HUAWEI TECHNOLOGIES CO.
+F48E92,HUAWEI TECHNOLOGIES CO.
+00664B,HUAWEI TECHNOLOGIES CO.
+9CC172,HUAWEI TECHNOLOGIES CO.
+247F3C,HUAWEI TECHNOLOGIES CO.
+581F28,HUAWEI TECHNOLOGIES CO.
+ECCB30,HUAWEI TECHNOLOGIES CO.
+F4DCF9,HUAWEI TECHNOLOGIES CO.
+308730,HUAWEI TECHNOLOGIES CO.
+241FA0,HUAWEI TECHNOLOGIES CO.
+18C58A,HUAWEI TECHNOLOGIES CO.
+68DFDD,Xiaomi Communications Co Ltd
+7054F5,HUAWEI TECHNOLOGIES CO.
+DCD2FC,HUAWEI TECHNOLOGIES CO.
+9017AC,HUAWEI TECHNOLOGIES CO.
+34CDBE,HUAWEI TECHNOLOGIES CO.
+D8490B,HUAWEI TECHNOLOGIES CO.
+9C28EF,HUAWEI TECHNOLOGIES CO.
+98FAE3,Xiaomi Communications Co Ltd
+F0B429,Xiaomi Communications Co Ltd
+000502,Apple
+2CAE2B,Samsung Electronics Co.
+F40E22,Samsung Electronics Co.
+F898B9,HUAWEI TECHNOLOGIES CO.
+C01173,Samsung Electronics Co.
+BCE63F,Samsung Electronics Co.
+7C9122,Samsung Electronics Co.
+E8F2E2,LG Innotek
+2827BF,Samsung Electronics Co.
+F4B8A7,zte corporation
+300C23,zte corporation
+44F436,zte corporation
+40B837,Sony Mobile Communications Inc
+800184,HTC Corporation
+FCE33C,HUAWEI TECHNOLOGIES CO.
+8CBFA6,Samsung Electronics Co.
+C8A823,Samsung Electronics Co.
+B0C559,Samsung Electronics Co.
+A48CDB,Lenovo
+BC1485,Samsung Electronics Co.
+78312B,zte corporation
+344DEA,zte corporation
+4C16F1,zte corporation
+EC1D7F,zte corporation
+AC3870,Lenovo Mobile Communication Technology Ltd.
+083D88,Samsung Electronics Co.
+608F5C,Samsung Electronics Co.
+109266,Samsung Electronics Co.
+0C1262,zte corporation
+986CF5,zte corporation
+4CCBF5,zte corporation
+1C7B21,Sony Mobile Communications Inc
+4C21D0,Sony Mobile Communications Inc
+78E8B6,zte corporation
+F084C9,zte corporation
+745F00,Samsung Semiconductor Inc.
+E0C3F3,zte corporation
+847A88,HTC Corporation
+80CF41,Lenovo Mobile Communication Technology Ltd.
+F46DE2,zte corporation
+A0F450,HTC Corporation
+A826D9,HTC Corporation
+0019A1,LG INFORMATION & COMM.
+001256,LG INFORMATION & COMM.
+00113F,Alcatel DI
+000BE1,Nokia NET Product Operations
+000A28,Motorola
+00089A,Alcatel Microelectronics
+0080D6,NUVOTECH
+08003E,CODEX CORPORATION
+001EB2,LG Innotek
+0024E9,Samsung Electronics Co.
+E0191D,HUAWEI TECHNOLOGIES CO.
+EC237B,zte corporation
+48A74E,zte corporation
+A8B86E,LG Electronics (Mobile Communications)
+84A9C4,HUAWEI TECHNOLOGIES CO.
+A0086F,HUAWEI TECHNOLOGIES CO.
+34CE00,XIAOMI Electronics
+D06F82,HUAWEI TECHNOLOGIES CO.
+A0F479,HUAWEI TECHNOLOGIES CO.
+844765,HUAWEI TECHNOLOGIES CO.
+C4FF1F,HUAWEI TECHNOLOGIES CO.
+B83765,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+C40BCB,Xiaomi Communications Co Ltd
+00219E,Sony Mobile Communications Inc
+C0D3C0,Samsung Electronics Co.
+948BC1,Samsung Electronics Co.
+14568E,Samsung Electronics Co.
+283F69,Sony Mobile Communications Inc
+64B473,Xiaomi Communications Co Ltd
+7451BA,Xiaomi Communications Co Ltd
+7802F8,Xiaomi Communications Co Ltd
+F87588,HUAWEI TECHNOLOGIES CO.
+F44C7F,HUAWEI TECHNOLOGIES CO.
+EC01EE,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+A0A33B,HUAWEI TECHNOLOGIES CO.
+94652D,OnePlus Technology (Shenzhen) Co.
+682737,Samsung Electronics Co.
+045D4B,Sony Corporation
+D0FF98,HUAWEI TECHNOLOGIES CO.
+B0E5ED,HUAWEI TECHNOLOGIES CO.
+C486E9,HUAWEI TECHNOLOGIES CO.
+C0BFC0,HUAWEI TECHNOLOGIES CO.
+A08CF8,HUAWEI TECHNOLOGIES CO.
+D0608C,zte corporation
+14A51A,HUAWEI TECHNOLOGIES CO.
+047503,HUAWEI TECHNOLOGIES CO.
+2C0E3D,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+9C7DA3,HUAWEI TECHNOLOGIES CO.
+A4C64F,HUAWEI TECHNOLOGIES CO.
+2CBABA,Samsung Electronics Co.
+40D3AE,Samsung Electronics Co.
+3816D1,Samsung Electronics Co.
+D0176A,Samsung Electronics Co.
+D48890,Samsung Electronics Co.
+5492BE,Samsung Electronics Co.
+205D47,vivo Mobile Communication Co.
+702E22,zte corporation
+000278,SAMSUNG ELECTRO MECHANICS CO.
+002399,Samsung Electronics Co.
+0017C9,Samsung Electronics Co.
+C4731E,Samsung Electronics Co.
+5C0A5B,SAMSUNG ELECTRO MECHANICS CO.
+7CF854,Samsung Electronics Co.
+001B98,Samsung Electronics Co.
+001A8A,Samsung Electronics Co.
+3C5A37,Samsung Electronics Co.
+F49F54,Samsung Electronics Co.
+34C3AC,Samsung Electronics Co.
+44F459,Samsung Electronics Co.
+00265D,Samsung Electronics Co.
+CCF9E8,Samsung Electronics Co.
+D857EF,Samsung Electronics Co.
+18E2C2,Samsung Electronics Co.
+9852B1,Samsung Electronics Co.
+E440E2,Samsung Electronics Co.
+103B59,Samsung Electronics Co.
+D890E8,Samsung Electronics Co.
+C462EA,Samsung Electronics Co.
+14F42A,Samsung Electronics Co.
+0808C2,Samsung Electronics Co.
+CCFE3C,Samsung Electronics Co.
+28BAB5,Samsung Electronics Co.
+182666,Samsung Electronics Co.
+30D6C9,Samsung Electronics Co.
+CC07AB,Samsung Electronics Co.
+BCB1F3,Samsung Electronics Co.
+1C62B8,Samsung Electronics Co.
+B43A28,Samsung Electronics Co.
+78A873,Samsung Electronics Co.
+001C43,Samsung Electronics Co.
+0023D6,Samsung Electronics Co.
+E4121D,Samsung Electronics Co.
+EC1F72,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+8C0D76,HUAWEI TECHNOLOGIES CO.
+84BE52,HUAWEI TECHNOLOGIES CO.
+849FB5,HUAWEI TECHNOLOGIES CO.
+A4CAA0,HUAWEI TECHNOLOGIES CO.
+E8508B,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+F8042E,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+C88D83,HUAWEI TECHNOLOGIES CO.
+C81FBE,HUAWEI TECHNOLOGIES CO.
+48D539,HUAWEI TECHNOLOGIES CO.
+D84FB8,LG ELECTRONICS
+4888CA,Motorola (Wuhan) Mobility Technologies Communication Co.
+00AA70,LG Electronics (Mobile Communications)
+540955,zte corporation
+001E75,LG Electronics (Mobile Communications)
+001C62,LG Electronics (Mobile Communications)
+505527,LG Electronics (Mobile Communications)
+88C9D0,LG Electronics (Mobile Communications)
+8C3AE3,LG Electronics (Mobile Communications)
+0821EF,Samsung Electronics Co.
+34145F,Samsung Electronics Co.
+60E3AC,LG Electronics (Mobile Communications)
+D4A148,HUAWEI TECHNOLOGIES CO.
+D065CA,HUAWEI TECHNOLOGIES CO.
+8CEBC6,HUAWEI TECHNOLOGIES CO.
+B08900,HUAWEI TECHNOLOGIES CO.
+D8D43C,Sony Corporation
+DC1AC5,vivo Mobile Communication Co.
+845181,Samsung Electronics Co.
+CCCC81,HUAWEI TECHNOLOGIES CO.
+70288B,Samsung Electronics Co.
+348A7B,Samsung Electronics Co.
+78009E,Samsung Electronics Co.
+ACC33A,Samsung Electronics Co.
+54F201,Samsung Electronics Co.
+C4A366,zte corporation
+6073BC,zte corporation
+101212,Vivo International Corporation Pty Ltd
+78FFCA,TECNO MOBILE LIMITED
+08C021,HUAWEI TECHNOLOGIES CO.
+600810,HUAWEI TECHNOLOGIES CO.
+48435A,HUAWEI TECHNOLOGIES CO.
+C4F081,HUAWEI TECHNOLOGIES CO.
+801382,HUAWEI TECHNOLOGIES CO.
+94FE22,HUAWEI TECHNOLOGIES CO.
+1C3ADE,Samsung Electronics Co.
+608334,HUAWEI TECHNOLOGIES CO.
+E47E66,HUAWEI TECHNOLOGIES CO.
+94DBDA,HUAWEI TECHNOLOGIES CO.
+B805AB,zte corporation
+789682,zte corporation
+9C52F8,HUAWEI TECHNOLOGIES CO.
+AC5F3E,SAMSUNG ELECTRO-MECHANICS(THAILAND)
+509EA7,Samsung Electronics Co.
+A88195,Samsung Electronics Co.
+88ADD2,Samsung Electronics Co.
+0019C5,Sony Interactive Entertainment Inc.
+001315,Sony Interactive Entertainment Inc.
+FC1A11,vivo Mobile Communication Co.
+50F520,Samsung Electronics Co.
+64B310,Samsung Electronics Co.
+A4EBD3,Samsung Electronics Co.
+343759,zte corporation
+BC620E,HUAWEI TECHNOLOGIES CO.
+74A528,HUAWEI TECHNOLOGIES CO.
+5CF6DC,Samsung Electronics Co.
+B8C68E,Samsung Electronics Co.
+04FE31,Samsung Electronics Co.
+4CBCA5,Samsung Electronics Co.
+D831CF,Samsung Electronics Co.
+188331,Samsung Electronics Co.
+9C65B0,Samsung Electronics Co.
+8455A5,Samsung Electronics Co.
+A87C01,Samsung Electronics Co.
+B0D09C,Samsung Electronics Co.
+50C8E5,Samsung Electronics Co.
+8400D2,Sony Mobile Communications Inc
+303926,Sony Mobile Communications Inc
+00EB2D,Sony Mobile Communications Inc
+B4527D,Sony Mobile Communications Inc
+00D9D1,Sony Interactive Entertainment Inc.
+00014A,Sony Corporation
+001EDC,Sony Mobile Communications Inc
+001D28,Sony Mobile Communications Inc
+001813,Sony Mobile Communications Inc
+402BA1,Sony Mobile Communications Inc
+E09796,HUAWEI TECHNOLOGIES CO.
+141AA3,Motorola Mobility LLC
+1430C6,Motorola Mobility LLC
+88074B,LG Electronics (Mobile Communications)
+10F681,vivo Mobile Communication Co.
+ACCF85,HUAWEI TECHNOLOGIES CO.
+00E0FC,HUAWEI TECHNOLOGIES CO.
+6416F0,HUAWEI TECHNOLOGIES CO.
+807ABF,HTC Corporation
+78F882,LG Electronics (Mobile Communications)
+00092D,HTC Corporation
+7C6193,HTC Corporation
+A81B5A,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+2C5BB8,GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.
+88E3AB,HUAWEI TECHNOLOGIES CO.
+C40528,HUAWEI TECHNOLOGIES CO.
+3CDFBD,HUAWEI TECHNOLOGIES CO.
+509F27,HUAWEI TECHNOLOGIES CO.
+80717A,HUAWEI TECHNOLOGIES CO.
+98F537,zte corporation
+5C4CA9,HUAWEI TECHNOLOGIES CO.
+F4C714,HUAWEI TECHNOLOGIES CO.
+286ED4,HUAWEI TECHNOLOGIES CO.
+001E10,HUAWEI TECHNOLOGIES CO.
+5439DF,HUAWEI TECHNOLOGIES CO.
+283CE4,HUAWEI TECHNOLOGIES CO.
+587F66,HUAWEI TECHNOLOGIES CO.
+64A651,HUAWEI TECHNOLOGIES CO.
+086361,HUAWEI TECHNOLOGIES CO.
+8C34FD,HUAWEI TECHNOLOGIES CO.
+ACF7F3,Xiaomi Communications Co Ltd
+D4970B,Xiaomi Communications Co Ltd
+8CBEBE,Xiaomi Communications Co Ltd
+14F65A,Xiaomi Communications Co Ltd
+009EC8,Xiaomi Communications Co Ltd
+0819A6,HUAWEI TECHNOLOGIES CO.
+3CF808,HUAWEI TECHNOLOGIES CO.
+486276,HUAWEI TECHNOLOGIES CO.
+B41513,HUAWEI TECHNOLOGIES CO.
+AC4E91,HUAWEI TECHNOLOGIES CO.
+283152,HUAWEI TECHNOLOGIES CO.
+3480B3,Xiaomi Communications Co Ltd
+F48B32,Xiaomi Communications Co Ltd
+74882A,HUAWEI TECHNOLOGIES CO.
+4CB16C,HUAWEI TECHNOLOGIES CO.
+04BD70,HUAWEI TECHNOLOGIES CO.
+84100D,Motorola Mobility LLC
+4040A7,Sony Mobile Communications Inc
+AC6462,zte corporation
+48137E,Samsung Electronics Co.
+E8BDD1,HUAWEI TECHNOLOGIES CO.
+382DE8,Samsung Electronics Co.
+C08997,Samsung Electronics Co.
+90D8F3,zte corporation
+380195,Samsung Electronics Co.
+04C23E,HTC Corporation
+5C5188,Motorola Mobility LLC
+5CB395,HUAWEI TECHNOLOGIES CO.
+3CDA2A,zte corporation
+842E27,Samsung Electronics Co.
+1432D1,Samsung Electronics Co.
+1816C9,Samsung Electronics Co.
+E0DB10,Samsung Electronics Co.
+30F335,HUAWEI TECHNOLOGIES CO.
+9000DB,Samsung Electronics Co.
+B4EF39,Samsung Electronics Co.
+74A063,HUAWEI TECHNOLOGIES CO.
+BC6E64,Sony Mobile Communications Inc
+C808E9,LG Electronics
+183A2D,Samsung Electronics Co.
+D87495,zte corporation
+1436C6,Lenovo Mobile Communication Technology Ltd.
+88708C,Lenovo Mobile Communication Technology Ltd.
+C0EEFB,OnePlus Tech (Shenzhen) Ltd
+44746C,Sony Mobile Communications Inc
+70720D,Lenovo Mobile Communication Technology Ltd.
+206E9C,Samsung Electronics Co.
+6C2F2C,Samsung Electronics Co.
+18227E,Samsung Electronics Co.
+30C7AE,Samsung Electronics Co.
+44D4E0,Sony Mobile Communications Inc
+34DE34,zte corporation
+B0989F,LG CNS
+30F31D,zte corporation
+A0EC80,zte corporation
+CC1AFA,zte corporation
+6C8B2F,zte corporation
+CC3A61,SAMSUNG ELECTRO MECHANICS CO.
+EC89F5,Lenovo Mobile Communication Technology Ltd.
+B49842,zte corporation
+DC028E,zte corporation
+885C47,Alcatel Lucent
+944444,LG Innotek
+1CB094,HTC Corporation
+30F9ED,Sony Corporation
+482CEA,Motorola Inc Business Light Radios
+D87157,Lenovo Mobile Communication Technology Ltd.
+E85B5B,LG ELECTRONICS INC
+000E86,Alcatel North America
+000DAE,SAMSUNG HEAVY INDUSTRIES CO.
+00A0BF,WIRELESS DATA GROUP MOTOROLA
